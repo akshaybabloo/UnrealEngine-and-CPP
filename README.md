@@ -54,7 +54,7 @@ Depending on the operating system you use, there are different ways of running o
 
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_project_window.png" alt="New Project" width="700"></p>
 
-```language-cpp
+```cpp
 //
 //  main.cpp
 //  HelloWorld
