@@ -36,10 +36,37 @@ Depending on the operating system you use, there are different ways of running o
 
 ### 2.2 Mac
 
-Open `XCode.app`, then click on `Create a new XCode project`
+* Open `XCode.app`, then click on `Create a new XCode project`
 
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_main.png" alt="New Project" width="700"></p>
 
-Under `OS X` click on `Application -> Command Line Tool` and finally click on `Next`.
+* Under `OS X` click on `Application -> Command Line Tool` and finally click on `Next`.
 
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_new_project.png" alt="New Project" width="700"></p>
+
+* Next, fill in the details and click on `Next`.
+
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_project_name.png" alt="New Project" width="700"></p>
+
+* This will open a pop-up asking you to choose a destination, once chosen, click on `Create`
+
+* A new project wind is opened that looks like this:
+
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_project_window.png" alt="New Project" width="700"></p>
+
+```language-cpp
+//
+//  main.cpp
+//  HelloWorld
+//
+//  Created by Akshay Raj Gollahalli on 20/05/16.
+//  Copyright © 2016 Akshay Raj Gollahalli. All rights reserved.
+//
+
+#include <iostream>
+
+int main(int argc, const char * argv[]) {
+    std::cout << "Hello, World!\n";
+    return 0;
+}
+```
