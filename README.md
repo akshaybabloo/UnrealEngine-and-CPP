@@ -36,6 +36,10 @@ Depending on the operating system you use, there are different ways of running o
 
 ### 2.2 Mac
 
-Open `XCode.app`
+Open `XCode.app`, then click on `Create a new XCode project`
 
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_main.png" alt="New Project" width="500"></p>
+
+Under `OS X` click on `Application -> Command Line Tool` and finally click on `Next`.
+
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_new_project.png" alt="New Project" width="500"></p>
