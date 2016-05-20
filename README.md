@@ -29,7 +29,7 @@ This tutorial focuses on how to use the C++ language with the UnrealEngine.
 
 ## 2 Running C++ code
 
-Depending on the operating system you use, there are different ways of running or compiling a C++ program. By default UnrealEngine creates a XCode project on Mac and Visual Studio project on Windows.
+Depending on the operating system you use, there are different ways of running or compiling a C++ program. By default, UnrealEngine creates a XCode project on Mac and Visual Studio project on Windows.
 
 ### 2.1 Windows
 
@@ -40,15 +40,15 @@ Depending on the operating system you use, there are different ways of running o
 
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_main.png" alt="New Project" width="700"></p>
 
-* Under `OS X` click on `Application -> Command Line Tool` and finally click on `Next`.
+* Under `OS X` click on `Application -> Command Line Tool` and finally click `Next`.
 
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_new_project.png" alt="New Project" width="700"></p>
 
-* Next, fill in the details and click on `Next`.
+* Next, fill in the details and click `Next`.
 
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_project_name.png" alt="New Project" width="700"></p>
 
-* This will open a pop-up asking you to choose a destination, once chosen, click on `Create`
+* This will open a pop-up asking you to choose a destination, once selected, click `Create`
 
 * A new project wind is opened that looks like this:
 
