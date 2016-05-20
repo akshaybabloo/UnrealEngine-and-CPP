@@ -35,3 +35,7 @@ Depending on the operating system you use, there are different ways of running o
 
 
 ### 2.2 Mac
+
+Open XCode
+
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_main.png" alt="New Project" width="500"></p>
