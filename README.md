@@ -1,5 +1,7 @@
 Introduction to UnrealEngine using CPP
 
+> Note 1: This tutorial is being developed using UnrealEngine 4.11.*
+
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [1 Introduction](#1introduction)
@@ -84,3 +86,17 @@ If you are running `XCode` for the first time, you might have to enable develope
 Click on `Enable`, this will ask you for your username and password for authentication. Once authenticated, you will find the result at the bottom of the `XCode`.
 
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_result.png" alt="New Project" width="700"></p>
+
+
+### 1.2.1 Creating a project
+
+To create a project, open the `Epic Game Launcher`. There are two ways to launch `UnrealEngine`
+
+1. Click on the big button on the left side of the launcher, that says `Launch`.
+2. Or, go to `Library`, under `Engine Versions` click on `Launch`.
+
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/epic_launcher.png" alt="New Project" width="700"></p>
+
+Once the `UnrealEngine` is up and running, you would have to create a project, to do that, click on `C++` tab, under that click on `Basic Code`, then click on `Starter Content` and select `No Starter Content` then finally click on `Create Project`.
+
+ <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/ue_project.png" alt="New Project" width="700"></p>

@@ -1,0 +1,3 @@
+/Users/akshayrajgollahalli/Box Sync/MyDrive/Projects/Akshay-GitHub/UnrealEngine-and-CPP/Mac/UnrealEngine/MyProject/Source/MyProject/MyProject.Build.cs
+/Users/akshayrajgollahalli/Box Sync/MyDrive/Projects/Akshay-GitHub/UnrealEngine-and-CPP/Mac/UnrealEngine/MyProject/Source/MyProject.Target.cs
+/Users/akshayrajgollahalli/Box Sync/MyDrive/Projects/Akshay-GitHub/UnrealEngine-and-CPP/Mac/UnrealEngine/MyProject/Source/MyProjectEditor.Target.cs

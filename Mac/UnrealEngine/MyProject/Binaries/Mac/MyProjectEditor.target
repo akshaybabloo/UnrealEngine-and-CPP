@@ -1,0 +1,29 @@
+{
+	"TargetName" : "MyProjectEditor",
+	"Platform" : "Mac",
+	"Configuration" : "Development",
+	"BuildId" : "",
+	"Version" : 
+	{
+		"MajorVersion" : 4,
+		"MinorVersion" : 11,
+		"PatchVersion" : 2,
+		"Changelist" : 2946394,
+		"IsLicenseeVersion" : 0,
+		"BranchName" : "++UE4+Release-4.11"
+	},
+	"BuildProducts" :
+	[
+		{
+			"Path" : "$(ProjectDir)/Binaries/Mac/UE4Editor-MyProject.dylib",
+			"Type" : "DynamicLibrary"
+		},
+		{
+			"Path" : "$(ProjectDir)/Binaries/Mac/UE4Editor-MyProject.dSYM",
+			"Type" : "SymbolFile"
+		}
+	],
+	"RuntimeDependencies" :
+	[
+	]
+}
