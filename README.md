@@ -70,3 +70,17 @@ int main(int argc, const char * argv[]) {
     return 0;
 }
 ```
+
+**Running the code**
+
+To run the code do the following, from the menu bar click on `Product -> Run` or <kbd>cmd</kbd>+<kbd>R</kbd>
+
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_run.png" alt="New Project" width="700"></p>
+
+If you are running `XCode` for the first time, you might have to enable developer mode on your Mac.
+
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_developer_mode.png" alt="New Project" width="700"></p>
+
+Click on `Enable`, this will ask you for your username and password for authentication. Once authenticated, you will find the result at the bottom of the `XCode`.
+
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_result.png" alt="New Project" width="700"></p>
