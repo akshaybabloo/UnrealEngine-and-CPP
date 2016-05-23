@@ -10,6 +10,7 @@ Introduction to UnrealEngine using CPP
 	- [2.1 Windows](#21-windows)
 	- [2.2 Mac](#22-mac)
 		- [1.2.1 Creating a project](#121-creating-a-project)
+		- [1.2.2 UnrealEngine overview](#122-unrealengine-overview)
 
 <!-- /TOC -->
 
@@ -102,18 +103,18 @@ Once the `UnrealEngine` is up and running, you would have to create a project, t
 
  <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/ue_project.png" alt="New Project" width="700"></p>
 
- #### 1.2.2 UnrealEngine overview
+#### 1.2.2 UnrealEngine overview
 
- <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine_4_Notes/master/Screenshots/UnrealEngineNote.png" alt="New Project" width="800"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine_4_Notes/master/Screenshots/UnrealEngineNote.png" alt="New Project" width="800"></p>
 
- > **Tip 1:** press `cmd + alt` (Mac) and move the cursor on an icon to get a quick help.
+> **Tip 1:** press `cmd + alt` (Mac) and move the cursor on an icon to get a quick help.
 
- UnrealEngine (for me or maybe for everyone) is divided into seven parts:
+UnrealEngine (for me or maybe for everyone) is divided into seven parts:
 
- 1. _Modes_ - This is where all the tool to build an environment is kept.
- 2. _Content browser_ - All your project files can be browsed from this place.
- 3. _Details_ - When you click an object (Actor, Pawns, Lights, etc..) all its details are displayed here.
- 4. _World outliner (Outliner)_ - Whatever is available in the viewport, can be seen here. It is like a Content browser but for you viewport.
- 5. _Toolbar_ - Buttons to Save, Play, etc. are here.
- 6. _Search_ - This is where you can search for help regarding an object.
- 7. _Viewport_ - Your design area or the Editor.
+1. _Modes_ - This is where all the tool to build an environment is kept.
+2. _Content browser_ - All your project files can be browsed from this place.
+3. _Details_ - When you click an object (Actor, Pawns, Lights, etc..) all its details are displayed here.
+4. _World outliner (Outliner)_ - Whatever is available in the viewport, can be seen here. It is like a Content browser but for you viewport.
+5. _Toolbar_ - Buttons to Save, Play, etc. are here.
+6. _Search_ - This is where you can search for help regarding an object.
+7. _Viewport_ - Your design area or the Editor.
