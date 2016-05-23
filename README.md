@@ -107,7 +107,7 @@ Once the `UnrealEngine` is up and running, you would have to create a project, t
 
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine_4_Notes/master/Screenshots/UnrealEngineNote.png" alt="New Project" width="800"></p>
 
-> **Tip 1:** press `cmd + alt` (Mac) and move the cursor on an icon to get a quick help.
+> **Tip 1:** press <kbd>cmd</kbd> + <kbd>alt</kbd> (Mac) and move the cursor on an icon to get a quick help.
 
 UnrealEngine (for me or maybe for everyone) is divided into seven parts:
 
