@@ -9,7 +9,7 @@ Introduction to UnrealEngine using CPP
 - [2 Running C++ code](#2-running-c-code)
 	- [2.1 Windows](#21-windows)
 	- [2.2 Mac](#22-mac)
-	- [1.2.1 Creating a project](#121-creating-a-project)
+		- [1.2.1 Creating a project](#121-creating-a-project)
 
 <!-- /TOC -->
 
@@ -89,7 +89,7 @@ Click on `Enable`, this will ask you for your username and password for authenti
 <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_result.png" alt="New Project" width="700"></p>
 
 
-### 1.2.1 Creating a project
+#### 1.2.1 Creating a project
 
 To create a project, open the `Epic Game Launcher`. There are two ways to launch `UnrealEngine`
 
