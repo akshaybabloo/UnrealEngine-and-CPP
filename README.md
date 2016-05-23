@@ -1,6 +1,6 @@
 Introduction to UnrealEngine using CPP
 
-> Note 1: This tutorial is being developed using UnrealEngine 4.11.*
+> Note 1: This tutorial is developed for UnrealEngine 4.11.*
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -42,21 +42,21 @@ Depending on the operating system you use, there are different ways of running o
 
 * Open `XCode.app`, then click on `Create a new XCode project`
 
-<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_main.png" alt="New Project" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_main.png" alt="New Project" width="800"></p>
 
 * Under `OS X` click on `Application -> Command Line Tool` and finally click  <kbd>Next</kbd>
 
-<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_new_project.png" alt="New Project" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_new_project.png" alt="New Project" width="800"></p>
 
 * Next, fill in the details and click <kbd>Next</kbd>.
 
-<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_project_name.png" alt="New Project" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_project_name.png" alt="New Project" width="800"></p>
 
 * This will open a pop-up asking you to choose a destination, once selected, click <kbd>Create</kbd>.
 
 * A new project wind is opened that looks like this:
 
-<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_project_window.png" alt="New Project" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_project_window.png" alt="New Project" width="800"></p>
 
 ```cpp
 //
@@ -79,15 +79,15 @@ int main(int argc, const char * argv[]) {
 
 To run the code do the following, from the menu bar click on `Product -> Run` or <kbd>cmd</kbd>+<kbd>R</kbd>
 
-<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_run.png" alt="New Project" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_run.png" alt="New Project" width="800"></p>
 
 If you are running `XCode` for the first time, you might have to enable developer mode on your Mac.
 
-<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_developer_mode.png" alt="New Project" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_developer_mode.png" alt="New Project" width="800"></p>
 
 Click on `Enable`, this will ask you for your username and password for authentication. Once authenticated, you will find the result at the bottom of the `XCode`.
 
-<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_result.png" alt="New Project" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/xcode_result.png" alt="New Project" width="800"></p>
 
 
 #### 1.2.1 Creating a project
@@ -97,11 +97,11 @@ To create a project, open the `Epic Game Launcher`. There are two ways to launch
 1. Click on the big button on the left side of the launcher, that says `Launch`.
 2. Or, go to `Library`, under `Engine Versions` click on `Launch`.
 
-<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/epic_launcher.png" alt="New Project" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/epic_launcher.png" alt="New Project" width="800"></p>
 
 Once the `UnrealEngine` is up and running, you would have to create a project, to do that, click on `C++` tab, under that click on `Basic Code`, then click on `Starter Content` and select `No Starter Content` then finally click on `Create Project`.
 
- <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/ue_project.png" alt="New Project" width="700"></p>
+ <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/ue_project.png" alt="New Project" width="800"></p>
 
 #### 1.2.2 UnrealEngine overview
 
