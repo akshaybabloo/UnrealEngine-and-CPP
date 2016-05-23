@@ -101,3 +101,19 @@ To create a project, open the `Epic Game Launcher`. There are two ways to launch
 Once the `UnrealEngine` is up and running, you would have to create a project, to do that, click on `C++` tab, under that click on `Basic Code`, then click on `Starter Content` and select `No Starter Content` then finally click on `Create Project`.
 
  <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine-and-CPP/master/Screenshots/ue_project.png" alt="New Project" width="700"></p>
+
+ #### 1.2.2 UnrealEngine overview
+
+ <p align="center"><img src="https://raw.githubusercontent.com/akshaybabloo/UnrealEngine_4_Notes/master/Screenshots/UnrealEngineNote.png" alt="New Project" width="800"></p>
+
+ > **Tip 1:** press `cmd + alt` (Mac) and move the cursor on an icon to get a quick help.
+
+ UnrealEngine (for me or maybe for everyone) is divided into seven parts:
+
+ 1. _Modes_ - This is where all the tool to build an environment is kept.
+ 2. _Content browser_ - All your project files can be browsed from this place.
+ 3. _Details_ - When you click an object (Actor, Pawns, Lights, etc..) all its details are displayed here.
+ 4. _World outliner (Outliner)_ - Whatever is available in the viewport, can be seen here. It is like a Content browser but for you viewport.
+ 5. _Toolbar_ - Buttons to Save, Play, etc. are here.
+ 6. _Search_ - This is where you can search for help regarding an object.
+ 7. _Viewport_ - Your design area or the Editor.
