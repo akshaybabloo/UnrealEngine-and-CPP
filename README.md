@@ -4,11 +4,12 @@ Introduction to UnrealEngine using CPP
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [1 Introduction](#1introduction)
-	- [1.1 Requirements](#11requirements)
-- [2 Running C++ code](#2runningccode)
-	- [2.1 Windows](#21windows)
-	- [2.2 Mac](#22mac)
+- [1 Introduction](#1-introduction)
+	- [1.1 Requirements](#11-requirements)
+- [2 Running C++ code](#2-running-c-code)
+	- [2.1 Windows](#21-windows)
+	- [2.2 Mac](#22-mac)
+	- [1.2.1 Creating a project](#121-creating-a-project)
 
 <!-- /TOC -->
 
